@@ -47,4 +47,4 @@ You may not apply legal terms or technological measures that legally restrict ot
 
 You can read the full legal text of the Creative Commons Attribution–NonCommercial 4.0 International License here:
 
-🔗 [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+[https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
